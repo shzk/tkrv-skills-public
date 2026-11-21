@@ -15,7 +15,7 @@ Help the intended reader get the main answer from the opening, understand the re
 
 ## Organize the argument with the Minto Pyramid Principle
 
-1. Lead with a specific answer to the reader's main question. Use a title that identifies the subject and a lead that states the takeaway and any condition that could change the reader's decision. Where context is necessary, use a brief situation and complication to make the question clear, then answer it in the opening.
+1. Lead with a specific answer to the reader's main question. Use a title that identifies the subject and a lead that states the takeaway and any condition that could change the reader's decision. For a conditional recommendation, state the condition in the same paragraph as the recommendation, even if you explain how to check it later. Where context is necessary, use a brief situation and complication to make the question clear, then answer it in the opening.
 2. Group the reasons, findings, or steps that support the answer. Give each section one distinct purpose. Together the sections should cover the argument at the promised scope. Order them by the logic of the piece: importance for recommendations, sequence for procedures, and dependency for explanations.
 3. Make each section's heading or first sentence express its point. Put the evidence directly under the claim it supports. Keep reasons, supporting evidence, and implications distinct. Reflect material counterevidence in the claim itself or alongside it.
 
