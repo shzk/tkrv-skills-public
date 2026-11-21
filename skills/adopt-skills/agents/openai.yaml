@@ -1,0 +1,7 @@
+interface:
+  display_name: "Внедрить скиллы"
+  short_description: "Оценить, адаптировать и внедрить скиллы"
+  default_prompt: "$adopt-skills <ссылка или архив>"
+
+policy:
+  allow_implicit_invocation: false
