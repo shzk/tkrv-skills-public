@@ -1,0 +1,4 @@
+interface:
+  display_name: "Написать статью"
+  short_description: "Написание статей по Пирамиде Минто"
+  default_prompt: "Используй $article-writing, чтобы подготовить или отредактировать статью."
