@@ -1,0 +1,6 @@
+interface:
+  display_name: "Конструктор промптов"
+  short_description: "Собирает и улучшает промпты для любых задач"
+  default_prompt: "Используй $prompt-builder, чтобы собрать готовый промпт из моего описания задачи."
+policy:
+  allow_implicit_invocation: false
