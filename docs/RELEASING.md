@@ -1,6 +1,6 @@
 # Release TKRV Skills
 
-This repository owns the source of skills listed in its README. Before publishing, review source files, documentation, and release assets for internal references and confirm the rights to distribute them. Keep private setup details in the consuming team's own tooling records.
+This repository owns standalone skills listed in its README. Packages under `plugins/` are versioned distribution snapshots of their owning source. Keep local edits to the owning source and copy the reviewed package into the public repository. Before publishing, review source files, documentation, and release assets for internal references and confirm the rights to distribute them. Keep private setup details in the consuming team's own tooling records.
 
 1. Change the owning files under `skills/<name>/`. Run the skill validator, verify the references and metadata, and exercise a bounded example suitable for the change. Preserve provenance and license terms when adapting someone else's work.
 2. Review the diff before merging. Choose a new `vMAJOR.MINOR.PATCH` collection tag. In GitHub Releases, describe what changed for each affected skill and any compatibility or upgrade steps. Tag the reviewed commit on `main`.
